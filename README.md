@@ -136,4 +136,5 @@ mse(y_test,predicted_stock_price)
 ![image](https://github.com/SOMEASVAR/rnn-stock-price-prediction/assets/93434149/0883c7a7-5ae3-441c-ba99-075429d1b4f4)
 
 
-## RESULT
+## RESULT:
+Thus, a Recurrent Neural Network model for stock price prediction is developed successfully.
