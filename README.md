@@ -18,12 +18,13 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ## DESIGN STEPS
 
 ### STEP 1:
-
+Import the necessary tensorflow modules
 ### STEP 2:
+Load the stock dataset
 
 ### STEP 3:
+Fit the model and then predict
 
-Write your own steps
 
 ## PROGRAM
 
